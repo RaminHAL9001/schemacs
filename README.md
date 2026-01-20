@@ -8,6 +8,11 @@ The home source code repository for this project is: <https://codeberg.org/ramin
 - Please **do** feel free to submit issues related to Schemacs to this repository.
 - Please **do not** clone this GitHub repository or submit PRs.
 
+### Presentations about Schemacs at EmacsConf
+
+- [EmacsConf 2025](https://emacsconf.org/2025/talks/schemacs/)
+- [EmacsConf 2024](https://emacsconf.org/2024/talks/gypsum/)
+
 ### **NOTE:** This is *not* a fork of [Guenchi's Schemacs](https://github.com/guenchi/Schemacs)
 
 Since [@Guenchi](https://github.com/guenchi) has apparently not had time recently to continue development of her "Schemacs" project, we asked permission of her to name this project "Schemacs" as well, and she very kindly agreed to allow us to use the name Schemacs, as was discussed in [issue 10 of guenchi/Schemacs](https://github.com/guenchi/Schemacs/issues/10).
