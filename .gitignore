@@ -1,0 +1,13 @@
+.guix-profile*
+.akku
+*.log
+*.o
+*.o?
+*.ostk
+*.bci
+*.bcild
+*.bin
+*.binld
+*.com
+*.comld
+*.ext
