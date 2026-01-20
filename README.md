@@ -6,6 +6,7 @@
 The home source code repository for this project is: <https://codeberg.org/ramin_hal9001/schemacs>. This GitHub source repository serves as a redirection pointer to the real home of Schemacs on Codeberg, as well as a place to submit issues for GitHub users.
 
 - Please **do** feel free to submit issues related to Schemacs to this repository.
+- Please **do** clone the [code from Codeberg](https://codeberg.org/ramin_hal9001/schemacs) and give it a try!
 - Please **do not** clone this GitHub repository or submit PRs.
 
 ### Presentations about Schemacs at EmacsConf
